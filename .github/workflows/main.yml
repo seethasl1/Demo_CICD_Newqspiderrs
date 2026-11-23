@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 env:
-  AZURE_WEBAPP_NAME: cicddemo-ssl
+  AZURE_WEBAPP_NAME: CICDDemo-qpiders
   DOTNET_VERSION: '10.0.x'
 
 jobs:
