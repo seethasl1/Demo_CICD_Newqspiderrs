@@ -8,7 +8,7 @@ namespace Demo_CICD_qspiders.Controllers
     {
         public IActionResult Index()
         {
-            ViewBag.Message = "Version1 - Web application";
+            ViewBag.Message = "Version2 - Web application updated";
             return View();
         }
 
